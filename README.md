@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fredericofigueiredo
-- 👀 I’m interested in technology in general!
-- 🌱 I’m currently learning SQL
+- 👀 I’m very passionate about technology!
+- 🌱 I’m currently learning SQL and building a dashboarding system for a german retail start-up. I'm also interning as a business analyst at Amazon.
 - 💞️ I’m looking to collaborate on automation, Data Analysis and ETL Processes.
 - 📫 Please reach me at fredericoadf@gmail.com
 
