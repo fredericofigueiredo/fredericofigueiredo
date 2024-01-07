@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @fredericofigueiredo
+- 👋 Hi, I’m Fred.
 - 👀 I’m very passionate about technology!
-- 🌱 Automation @ Amazon.
-- 💞️ I’m looking to collaborate on automation, Data Analysis and ETL Processes.
+- 🌱 Data and Software Engineering @ Amazon.
 - 📫 Please reach me at fredericoadf@gmail.com or on https://www.linkedin.com/in/fredericoadf/ .
 
 <!---
