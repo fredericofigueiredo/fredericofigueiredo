@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fred.
 - 👀 I’m very passionate about technology!
-- 🌱 Data and Software Engineering @ Amazon.
+- 🌱 Manager, Cloud Analytics @ Amazon.
 - 📫 Please reach me at fredericoadf@gmail.com or on https://www.linkedin.com/in/fredericoadf/ .
 
 <!---
